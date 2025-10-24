@@ -37,5 +37,5 @@ Para ejecutar este proyecto, se requiere Python 3 y las librerías listadas en e
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/Geo-27/Tareas-CD.git
-cd Tareas-CD
+git clone [https://github.com/Geo-27/Tareas-CD.git](https://github.com/Geo-27/ActividadEntornosVirtuales)
+cd ActividadEntornosVirtuales
