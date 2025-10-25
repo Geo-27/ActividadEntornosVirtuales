@@ -1,0 +1,14 @@
+altair
+bokeh
+dash
+jupyter-dash
+matplotlib
+numpy
+openpyxl
+pandas
+plotly
+scikit-learn
+seaborn
+statsmodels
+vegafusion
+vl-convert-python
