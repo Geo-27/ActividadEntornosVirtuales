@@ -34,8 +34,12 @@ Se utiliza el conjunto de datos **"Online Retail"** disponible en el repositorio
 
 Para ejecutar este proyecto, se requiere Python 3 y las librerías listadas en el archivo `requirementsEV.txt`.
 
+## Link a Google Colab
+https://colab.research.google.com/drive/1Ile_HvmvWgl8kq1qgKR0nVhk0tmBNwhg?authuser=1#scrollTo=goYLfiBLlaBD
+
 ### Clonar el repositorio
 
 ```bash
 git clone [https://github.com/Geo-27/Tareas-CD.git](https://github.com/Geo-27/ActividadEntornosVirtuales)
 cd ActividadEntornosVirtuales
+
